@@ -1,0 +1,41 @@
+html,
+body{
+
+	hight: 100%;
+	font-size: 1rem;
+	}
+
+
+
+.gradient{
+	background: rgb(60,50,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,108,0.7483368347338936) 35%, rgba(0,212,255,1) 100%);
+}
+.page-header {
+
+	margin-top: 4rem;
+	font-size: 1.25rem;
+	color: #fff;
+}
+.feature{
+color: white;
+
+
+
+
+}
+.feature ul{
+
+	padding-left: 2rem;
+	list-style-type: none;
+
+}
+.feature ul li {
+
+	padding-left: 2rem;
+	background-image: url(../images/check.png);
+	background-repeat: no repeat;
+	line-height: 1.5rem;
+	margin bottom: 1rem;
+	
+}
